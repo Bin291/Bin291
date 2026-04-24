@@ -160,19 +160,6 @@ hobbies:
 
 ---
 
-## 💼 Experience
-
-```
-🏢 ITSS Company          │ Fullstack Developer   │ 06/2025 → Now
-   • Tăng 20% lượng truy cập trong 3 tháng đầu sau khi ra mắt
-   • Giảm 15% tỷ lệ thoát nhờ cải thiện UI/UX
-
-🏢 Mikademy Co., Ltd.    │ Web Developer         │ 2025
-   • Intern — Phát triển kỹ năng thực tế trong môi trường chuyên nghiệp
-```
-
----
-
 <div align="center">
 
 ### 💬 Let's connect!
