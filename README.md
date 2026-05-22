@@ -31,7 +31,7 @@
 name: Nguyễn Phương Bình
 location: Bình Chánh, Hồ Chí Minh City 🇻🇳
 role: Full-Stack Developer (Backend-focused)
-experience: 5+ years
+experience: 2+ years
 education: Hoa Sen University — Information Technology
 languages: Vietnamese 🇻🇳 | English 🇺🇸 (TOEIC 450)
 hobbies:
