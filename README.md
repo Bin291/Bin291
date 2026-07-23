@@ -27,7 +27,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
+## 🧑‍💻 About Me
 
 <table>
 <tr>
@@ -67,7 +67,7 @@ Tôi thích tạo ra những sản phẩm thực sự giải quyết vấn đề
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Tôi thích tạo ra những sản phẩm thực sự giải quyết vấn đề
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,supabase,postgres,firebase,deno&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ruby,supabase,postgres,firebase,deno&theme=dark" />
 
 **Tools & Platforms**
 
@@ -87,7 +87,7 @@ Tôi thích tạo ra những sản phẩm thực sự giải quyết vấn đề
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -148,7 +148,7 @@ Ghé qua repo list để xem những thứ mới nhất tôi đang làm.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Experience
+## 💼 Experience
 
 ```
 2026 · Mar — Jun   💼  Web Developer Intern @ Mikademy
@@ -160,7 +160,7 @@ Ghé qua repo list để xem những thứ mới nhất tôi đang làm.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
 
-## <img src="https://media.giphy.com/media/ZDGZBxwUS1n9m5DnFp/giphy.gif" width="28"> &nbsp;GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -177,21 +177,33 @@ Ghé qua repo list để xem những thứ mới nhất tôi đang làm.
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bin291&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+<!--
+  🏆 TROPHY — ĐANG TẮT
+  Instance công khai github-profile-trophy.vercel.app hiện trả về lỗi 402 (Vercel đã pause).
+  Muốn dùng: fork repo ryo-ma/github-profile-trophy → deploy Vercel của bạn → thay domain bên dưới.
+  <img src="https://github-profile-trophy.vercel.app/?username=Bin291&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+-->
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
+
+<!--
+  🐍 SNAKE — ĐANG TẮT
+  Branch `output` của repo Bin291/Bin291 chưa tồn tại → 3 link dưới đang 404.
+  Bật lại: thêm .github/workflows/snake.yml → Actions → Run workflow → rồi xoá 2 dòng comment này.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bin291/Bin291/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bin291/Bin291/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Bin291/Bin291/output/github-contribution-grid-snake.svg" />
 </picture>
+
+-->
 
 </div>
 
