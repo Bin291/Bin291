@@ -25,8 +25,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Bin291/Bin291/main/assets/divider.svg" width="100%" onerror="this.style.display='none'" />
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
