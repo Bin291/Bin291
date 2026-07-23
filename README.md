@@ -79,7 +79,7 @@ Tôi thích tạo ra những sản phẩm thực sự giải quyết vấn đề
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ruby,supabase,postgres,firebase,deno&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,supabase,postgres,firebase,deno&theme=dark" />
 
 **Tools & Platforms**
 
