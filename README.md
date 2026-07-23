@@ -1,103 +1,217 @@
+<!--
+  ╭──────────────────────────────────────────────╮
+  │   README của Nguyễn Phương Bình (@Bin291)    │
+  │   Tip: sửa các link project ở mục Projects   │
+  ╰──────────────────────────────────────────────╯
+-->
+
 <div align="center">
 
-```
-██████╗ ██╗███╗   ██╗██╗  ██╗
-██╔══██╗██║████╗  ██║██║  ██║
-██████╔╝██║██╔██╗ ██║███████║
-██╔══██╗██║██║╚██╗██║██╔══██║
-██████╔╝██║██║ ╚████║██║  ██║
-╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00D9FF&height=200&section=header&text=Nguy%E1%BB%85n%20Ph%C6%B0%C6%A1ng%20B%C3%ACnh&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20Specialist&descAlignY=56&descSize=18&animation=fadeIn" width="100%" />
 
-# Nguyễn Phương Bình
-### Full-Stack Developer · Backend Specialist · Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+%26+Database+Specialist+%F0%9F%92%BE;Building+things+that+scale+%E2%9A%99%EF%B8%8F;Open+to+new+opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=520&height=45&lines=Full-Stack+Developer+%F0%9F%9A%80;Backend+%26+Database+Specialist+%F0%9F%92%BE;Building+things+that+scale+%E2%9A%99%EF%B8%8F;Open+to+new+opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-b%C3%ACnh-44717a385/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bin291)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binhnguyen290104@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/binh.phuong.85178)
+<a href="https://www.linkedin.com/in/nguy%E1%BB%85n-b%C3%ACnh-44717a385/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Bin291"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:binhnguyen290104@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://facebook.com/binh.phuong.85178"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Bin291&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Bin291?style=flat-square&color=00d9ff&labelColor=181717&logo=github" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Bin291/Bin291/main/assets/divider.svg" width="100%" onerror="this.style.display='none'" />
 
-## 🧑‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
+
+<table>
+<tr>
+<td valign="top" width="58%">
 
 ```yaml
-name: Nguyễn Phương Bình
-location: Bình Chánh, Hồ Chí Minh City 🇻🇳
-role: Full-Stack Developer (Backend-focused)
+name:      Nguyễn Phương Bình
+location:  Bình Chánh, Hồ Chí Minh City 🇻🇳
+role:      Full-Stack Developer (Backend-focused)
 experience: 2+ years
 education: Hoa Sen University — Information Technology
-languages: Vietnamese 🇻🇳 | English 🇺🇸 (TOEIC 450)
-hobbies:
-  - ☕ Cà phê & học tập
-  - 🎮 Gaming
+languages: [Vietnamese 🇻🇳, English 🇺🇸 (TOEIC 450)]
+
+currently:
+  - 🔭 Building AI-powered web products
+  - 🌱 Learning: System Design, pgvector, Edge Functions
+  - 💬 Ask me about: NestJS · Supabase · PostgreSQL
+  - ⚡ Fun fact: cà phê ☕ + code = productivity++
 ```
 
-> Tôi là Full-Stack Developer với thế mạnh ở backend — xây dựng hệ thống xử lý logic, quản lý database, và thiết kế UX functions hiệu quả. Tôi thích tạo ra những sản phẩm có thực sự giải quyết vấn đề cho người dùng.
+</td>
+<td valign="top" width="42%">
 
----
+> ### 💡 Triết lý
+>
+> *"Code tốt không chỉ là code chạy được — mà là code dễ bảo trì, dễ mở rộng và giải quyết đúng vấn đề."*
 
-## 🛠️ Tech Stack
+**Thế mạnh của tôi**
+
+`Backend Logic` `Database Design` `API Architecture` `UX Functions`
+
+Tôi thích tạo ra những sản phẩm thực sự giải quyết vấn đề cho người dùng — từ schema đầu tiên đến màn hình cuối cùng.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,vite,flutter,ts,tailwind&theme=dark" />
 
-**Backend**
+**Backend & Database**
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,ruby,supabase,postgres,firebase,deno&theme=dark" />
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,vercel&theme=dark" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Featured Projects
 
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+### 🧠 FormCV
+**Recruiter Module — AI Candidate Search**
+
+Hệ thống tìm kiếm ứng viên với **Hybrid Search** (keyword + pgvector), phân tích CV bằng AI và Smart Alert qua email.
+
+`React` `TypeScript` `Supabase` `pgvector` `Deno Edge Functions`
+
+<a href="https://github.com/Bin291"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=flat-square&logo=github&logoColor=black" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 Rhyza
+**Music Streaming Platform**
+
+Nền tảng nghe nhạc trực tuyến với playlist, streaming và trải nghiệm người dùng mượt mà.
+
+`Next.js` `NestJS` `PostgreSQL`
+
+<a href="https://github.com/Bin291"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=flat-square&logo=github&logoColor=black" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Partner Tenant System
+**Multi-tenant Management**
+
+Hệ thống quản lý đối tác đa tenant với phân quyền, isolation dữ liệu và dashboard quản trị.
+
+`Angular` `NestJS` `PostgreSQL`
+
+<a href="https://github.com/Bin291"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=flat-square&logo=github&logoColor=black" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ More on the way
+**Luôn có gì đó đang build**
+
+Ghé qua repo list để xem những thứ mới nhất tôi đang làm.
+
+`Always Learning` `Always Shipping`
+
+<a href="https://github.com/Bin291?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
+
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Experience
+
+```
+2026 · Mar — Jun   💼  Web Developer Intern @ Mikademy
+                       └─ formcv.app — Recruiter Module, Hybrid Search, AI CV Analysis
+
+2024 — Present     🎓  Information Technology @ Hoa Sen University
+                       └─ Software Development track
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
+
+## <img src="https://media.giphy.com/media/ZDGZBxwUS1n9m5DnFp/giphy.gif" width="28"> &nbsp;GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bin291&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin291&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bin291&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin291&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Bin291&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bin291&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF" width="98%" />
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bin291&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=Bin291&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Contribution Snake
 
 <div align="center">
 
-### 💬 Let's connect!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bin291/Bin291/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bin291/Bin291/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Bin291/Bin291/output/github-contribution-grid-snake.svg" />
+</picture>
 
-*"Tôi tin rằng code tốt không chỉ là code chạy được — mà là code dễ bảo trì, dễ mở rộng và giải quyết đúng vấn đề."*
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00D9FF&height=3&section=header" width="100%" />
+
+<div align="center">
+
+## 💬 Let's connect!
+
+Tôi luôn sẵn sàng cho những cơ hội mới, dự án thú vị hoặc chỉ đơn giản là một cuộc trò chuyện về tech.
+
+<a href="mailto:binhnguyen290104@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-00D9FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/nguy%E1%BB%85n-b%C3%ACnh-44717a385/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bin291&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:203A43,100:0F2027&height=140&section=footer" width="100%" />
+
+<sub>⭐ From <a href="https://github.com/Bin291">Bin291</a> — cảm ơn bạn đã ghé qua!</sub>
 
 </div>
